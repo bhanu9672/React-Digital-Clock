@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.clock-main-div {
+  /* background: white;
+  max-width: 43%;
+  height: 220px;
+  padding: 4px; */
+  border-radius: 18px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
